@@ -7,4 +7,5 @@ Tecnologias a serem utilizadas no projeto.
 **NextJS**
 **ReactJS**
 **TypeScript**
-**API Listen Notes**
+**API Listen Notes** 
+[https://www.listennotes.com/pt/](https://www.listennotes.com/pt/)
